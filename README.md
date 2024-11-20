@@ -1,6 +1,6 @@
-# Razor Project File Change Issue in Docker
+# Razor Project File Change in Docker
 
-This README outlines the issue of reflecting changes in Razor files within a Docker environment, where changes to Razor files are instantly reflected in the live environment.
+This README outlines reflecting changes in Razor files within a Docker environment, where changes to Razor files are instantly reflected in the live environment.
 
 ## Problem Overview
 
